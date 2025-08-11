@@ -1,9 +1,4 @@
-# Confidence_Builder
-Helps you assess current state of anxiety and  nudges with suggestions to improve your condition
 
-# Confidence Builder
-
-A science-based web application designed to help users understand and overcome imposter syndrome through personalized assessments and evidence-based interventions.
 
 ## Features
 
