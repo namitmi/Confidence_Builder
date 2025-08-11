@@ -7,7 +7,7 @@ A science-based web application designed to help users understand and overcome i
 
 ## Features
 
-- **Comprehensive Assessment**: 18-question imposter syndrome evaluation
+- **Comprehensive Assessment**: 18-question evaluation
 - **Personalized Results**: Severity-based insights and recommendations  
 - **User Accounts**: Save progress and track daily interventions
 - **Interactive Dashboard**: Gamified progress tracking with points and levels
